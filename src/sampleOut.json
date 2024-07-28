@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Not an oeuf: Athletes report eggs shortage in Olympic village",
+            "description": "Several athetes have complained about the amount of food available, specifically eggs and grilled meats, according to French media.",
+            "url": "https://www.bbc.co.uk/news/articles/c0xj26w651qo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5513/live/8e58ad60-4a75-11ef-9ce5-f32874646ca6.jpg",
+            "publishedAt": "2024-07-25T13:07:17.8586202Z",
+            "content": "Several athletes have complained about a shortage of food at the Olympic Village in Paris, according to reports.\r\nCompetitors have said the amount of food available, specifically eggs, which were rat… [+1724 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gaza war: Israeli forces recover bodies of five hostages",
+            "description": "The remains of a teacher and four soldiers were found in an operation in Khan Younis on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c51y9qpjyx8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de6e/live/edfc5a40-4a67-11ef-aebc-6de4d31bf5cd.jpg",
+            "publishedAt": "2024-07-25T12:37:18.6398817Z",
+            "content": "Shortly afterwards, the kibbutzim of Nir Oz and Nir Yitzhak announced in separate statements that they had been informed of the recovery of Ms Goren and Sgt Goldin's bodies.\r\nOn Thursday, a joint sta… [+2435 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rosenberg: What one Russian square says about relations with West",
+            "description": "Moscow Mayor Sergei Sobyanin has signed an order renaming Europe Square Eurasia Square.",
+            "url": "https://www.bbc.co.uk/news/articles/c4ng8e3j72yo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a5e/live/b5b6f080-49dd-11ef-8f0f-0577398c3339.jpg",
+            "publishedAt": "2024-07-25T12:22:17.5778645Z",
+            "content": "Back on (former) Europe Square, what do passers-by make of the change to Eurasia?\r\nIts the right decision, Olga tells me. Were not friends with Europe right now. I dont want to be in Europe.\r\nEurasia… [+712 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jennifer Aniston criticises JD Vance's 'childless cat ladies' comment",
+            "description": "\"I truly can’t believe that this is coming from a potential VP of the United States,\" the star says.",
+            "url": "https://www.bbc.co.uk/news/articles/cpe3pz2pz8no",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bda4/live/73854920-4a62-11ef-935f-59cf6f181f38.jpg",
+            "publishedAt": "2024-07-25T11:22:15.0785002Z",
+            "content": "Transportation Secretary Pete Buttigieg also addressed the comments earlier this week, speaking about adopting twins with his husband, Chasten.\r\n\"The really sad thing is he said that after Chasten an… [+736 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canadian wildfires: 25,000 evacuated from tourist town of Jasper",
+            "description": "People were told to leave the popular tourist town of Jasper on Tuesday as fires approached.",
+            "url": "https://www.bbc.co.uk/news/articles/cgerpdwxjd9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4480/live/92692d90-4a6a-11ef-aebc-6de4d31bf5cd.jpg",
+            "publishedAt": "2024-07-25T10:22:17.6251207Z",
+            "content": "That includes the Trans Mountain Pipeline, a Canadian government-owned pipeline that runs through Jasper National Park. As of Wednesday it was still operating, with sprinklers being used to protect i… [+926 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Madhya Pradesh: India labourer finds diamond worth $95,000 in Panna mine",
+            "description": "Raju Gound, who has been diamond-hunting for over a decade, finally got lucky this week.",
+            "url": "https://www.bbc.co.uk/news/articles/c7294x1rz83o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b4e4/live/2d5355d0-4a50-11ef-aab1-e7fcec708088.jpg",
+            "publishedAt": "2024-07-25T09:22:18.0930455Z",
+            "content": "The federal government's National Mineral Development Corporation (NMDC) runs a mechanised diamond mining project in Panna.\r\nIt also leases out shallow mines to individuals, families and co-operative… [+915 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "MrBeast hires team to investigate Ava Kris Tyson grooming claims",
+            "description": "The YouTuber's co-host Ava Kris Tyson denies claims online she groomed a teenager when she was 20.",
+            "url": "https://www.bbc.co.uk/news/articles/cgr5pgevr39o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ecf/live/c9c71330-4a54-11ef-81b1-e9d694834d0d.jpg",
+            "publishedAt": "2024-07-25T09:22:16.6090439Z",
+            "content": "MrBeast first posted on YouTube in 2012 when he was 13.\r\nOver the next 10 years he became one of the most popular content creators, sharing increasingly elaborate videos before being named the most s… [+1073 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Namibia turns the visa tables on Western countries",
+            "description": "Why tourists who flock to see the country's beautiful landscapes will have to get a visa from next year.",
+            "url": "https://www.bbc.co.uk/news/articles/cmj2578r873o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8748/live/eec4ebf0-4a1b-11ef-80f6-ebb7f09ad89b.jpg",
+            "publishedAt": "2024-07-25T05:37:20.1717072Z",
+            "content": "For Ms Nehoya, Namibias visa announcement is long overdue: I think it is fair. It feels like Namibia is standing up for itself.\r\nThe reactions on social media to the news echo her sentiments.\r\nFinall… [+1458 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden sidesteps hard truths as he fails to seize primetime slot",
+            "description": "Left unsaid in his TV address was the reality that he resigned because it was becoming increasingly clear he would lose to Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/crg5pq8ql1vo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6bf2/live/78b97050-4a2c-11ef-8f0f-0577398c3339.jpg",
+            "publishedAt": "2024-07-25T02:22:11.5429849Z",
+            "content": "Then he went on the attack against Kamala Harris, the partys new presumptive nominee, claiming that she was a radical left lunatic and the ultra-liberal driving force behind every single Biden catast… [+1986 chars]"
+        },
+    {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine thrown into war's bleak future as drones open new front",
+            "description": "On the front line, drones are killing hundreds every day - showing the world a new kind of high-tech war.",
+            "url": "https://www.bbc.co.uk/news/articles/cne4vl9gy2wo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98cb/live/4c19f710-49d0-11ef-b2d2-cdb23d5d7c5b.jpg",
+            "publishedAt": "2024-07-24T21:37:11.8621288Z",
+            "content": "The black box sits on the army truck dashboard like a talisman, its tiny screen lighting up with warnings when Russian drones are above us. We are driving fast along a country road in the darkness ne… [+1531 chars]"
+        }
+    ]
+}
