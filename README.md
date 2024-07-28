@@ -1,4 +1,4 @@
-==>newsApp
+==>newsApp using class based component in react 
 
 newsApp is a React-based application that displays the latest news headlines. It leverages the News API to fetch and display news articles from various categories and countries. The app also features infinite scrolling for an enhanced user experience.
 
